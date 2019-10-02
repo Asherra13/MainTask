@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36b53d6f-df44-4e00-a994-1628eb585b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MainTask01/MainTask01/MainTask01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MainTask01/MainTask02/MainTask02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/project/MainTaskSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/project/NaturalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/project/NewScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/MainTask01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/META-INF/MainTask01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/out/production/MainTask01/com/project/Task07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MainTask01/src/com/project/Task07.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MainTask02/com/project/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Task01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Task02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Task03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MainTask02/com/project/Task04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Task01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Task02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Task03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/project/Task04.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
